@@ -1,6 +1,6 @@
-# :e-mail: parsedmarc-dockerized
+# parsedmarc-dockerized
 
-## :information_source: Info
+## Info
 
 This stack includes:
 
@@ -14,9 +14,9 @@ First of all you need to have :whale: Docker and :octocat: Docker Compose.
 
 1. Start stack.
 
-```bash
-docker-compose -up d
-```
+    ```bash
+    docker-compose -up d
+    ```
 
 1. Import Kibana Saved Objects
 
