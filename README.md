@@ -20,9 +20,9 @@ First of all you need to have :whale: Docker and :octocat: Docker Compose.
 
 1. Import Kibana Saved Objects
 
-Go to [http://localhost:5601/app/management/kibana/objects] click on `Import`.
+    Go to <http://localhost:5601/app/management/kibana/objects> click on `Import`.
 
-Import `kibana/export.ndjson` with override.
+    Import `kibana/export.ndjson` with override.
 
 1. Copy DMARC reports from mailbox to: `dmarc-reports`. The following file extensions are supported: `.xml, .zip, .xml.gz`
 
